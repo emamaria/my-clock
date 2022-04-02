@@ -1,0 +1,11 @@
+@import "./components/Digitalclock/Digitalclock.scss";
+@import "./components/Countdown/Countdown.scss";
+@import "./components/Chronometer/Chronometer.scss";
+
+.App {
+  text-align: center;
+}
+
+body {
+  background: black;
+}

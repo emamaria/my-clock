@@ -1,0 +1,27 @@
+.text-style {
+  color: white;
+  color: fuchsia;
+}
+
+.chronometerContainer {
+  width: 600px;
+  height: 300px;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 100px;
+  color: fuchsia;
+  border: 10px solid fuchsia;
+  margin-top: 10px;
+}
+
+.button-style {
+  width: 70px;
+  height: 35px;
+  font-size: 15px;
+  border: fuchsia;
+  background-color: fuchsia;
+  margin: 2px;
+}
