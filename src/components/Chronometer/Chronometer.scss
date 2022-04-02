@@ -14,7 +14,7 @@
   font-size: 100px;
   color: fuchsia;
   border: 10px solid fuchsia;
-  margin-top: 10px;
+ 
 }
 
 .button-style {
@@ -25,3 +25,13 @@
   background-color: fuchsia;
   margin: 2px;
 }
+
+
+@media (max-width: 600px) {
+  .chronometerContainer {
+    width: 300px;
+    font-size: 50px;
+    margin-top: 10px;
+  }
+}
+

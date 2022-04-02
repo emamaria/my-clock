@@ -8,5 +8,12 @@
   font-size: 100px;
   color: lightgreen;
   border: 10px solid lightgreen;
-  margin-top: 10px;
+ 
+}
+
+@media (max-width: 600px) {
+  .countDownContainer {
+    width: 300px;
+    font-size: 50px;
+  }
 }
